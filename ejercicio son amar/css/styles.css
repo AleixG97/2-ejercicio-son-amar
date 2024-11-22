@@ -1,0 +1,102 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+}
+
+.logo{
+    display: block;
+    width: 240px;
+    height: 180px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 70px;
+}
+
+main{
+    
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+}
+
+body{
+    background-color: rgba(255, 255, 255, 0.719);
+}
+
+header{
+    background-color: rgb(255, 255, 255);
+}
+
+
+h1, h2{
+    color: rgb(255, 0, 0);
+}
+
+.tabla1 td{
+    background-color: rgb(192, 188, 182);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+    
+}
+
+.tabla1{
+    width: 400px;
+}
+
+.tabla2 td{
+background-color: rgb(192, 188, 182);
+padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+}
+
+.tabla2{
+    width: 400px;
+
+}
+
+#phone{
+    background-color: rgb(216, 213, 213);
+}
+
+.tabla3 {
+    width: 400px;
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+
+.tabla3 td,
+.tabla3 th {
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.QR {
+    float: left;
+    margin-right: 20px;
+}
+
+hr {
+    width: 80%;
+}
+
+
+.tabla4{
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    width: 300px;
+}
+
+.col1-f{
+    color: rgb(255, 0, 0);
+}
+
+main{
+    margin-right: 20px;
+}
+
+
